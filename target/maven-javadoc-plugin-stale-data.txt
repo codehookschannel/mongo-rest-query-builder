@@ -1,0 +1,26 @@
+cmd.exe
+/X
+/C
+""C:\Program Files\Java\jdk-11.0.4\bin\javadoc.exe" @options @packages"
+D:\POCs\Practic\mongo-rest-query-builder\target\apidocs\allclasses-index.html = 1601556541729
+D:\POCs\Practic\mongo-rest-query-builder\target\apidocs\allclasses.html = 1601556541758
+D:\POCs\Practic\mongo-rest-query-builder\target\apidocs\allpackages-index.html = 1601556541738
+D:\POCs\Practic\mongo-rest-query-builder\target\apidocs\constant-values.html = 1601556541634
+D:\POCs\Practic\mongo-rest-query-builder\target\apidocs\deprecated-list.html = 1601556541751
+D:\POCs\Practic\mongo-rest-query-builder\target\apidocs\element-list = 1601556541583
+D:\POCs\Practic\mongo-rest-query-builder\target\apidocs\help-doc.html = 1601556541780
+D:\POCs\Practic\mongo-rest-query-builder\target\apidocs\index-all.html = 1601556541718
+D:\POCs\Practic\mongo-rest-query-builder\target\apidocs\index.html = 1601556541765
+D:\POCs\Practic\mongo-rest-query-builder\target\apidocs\member-search-index.js = 1601556541716
+D:\POCs\Practic\mongo-rest-query-builder\target\apidocs\member-search-index.zip = 1601556541716
+D:\POCs\Practic\mongo-rest-query-builder\target\apidocs\options = 1601556539883
+D:\POCs\Practic\mongo-rest-query-builder\target\apidocs\overview-summary.html = 1601556541773
+D:\POCs\Practic\mongo-rest-query-builder\target\apidocs\overview-tree.html = 1601556541695
+D:\POCs\Practic\mongo-rest-query-builder\target\apidocs\package-search-index.js = 1601556541709
+D:\POCs\Practic\mongo-rest-query-builder\target\apidocs\package-search-index.zip = 1601556541712
+D:\POCs\Practic\mongo-rest-query-builder\target\apidocs\packages = 1601556539888
+D:\POCs\Practic\mongo-rest-query-builder\target\apidocs\script.js = 1601556541789
+D:\POCs\Practic\mongo-rest-query-builder\target\apidocs\search.js = 1601556541790
+D:\POCs\Practic\mongo-rest-query-builder\target\apidocs\stylesheet.css = 1601556541787
+D:\POCs\Practic\mongo-rest-query-builder\target\apidocs\type-search-index.js = 1601556541713
+D:\POCs\Practic\mongo-rest-query-builder\target\apidocs\type-search-index.zip = 1601556541715
